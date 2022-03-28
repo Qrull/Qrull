@@ -46,11 +46,11 @@ function task(i) {
 	
   setTimeout(function() { 
     if(first == true){
-	bot.chat(".....")
+	bot.chat("Nande Nande!")
 	first = false;
 	}
 	else{
-		bot.chat("Telah Diperbarui")
+		bot.chat("")
 		first = true;
 	}
   }, 3600000 * i); 
