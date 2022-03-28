@@ -39,14 +39,14 @@ bot.on('login',function(){
 	   task(i); 
 	} 
 	console.log("Sukses Login")
-	bot.chat("Oi Kiyomasa!");
+	bot.chat("/vanish");
 });
   
 function task(i) { 
 	
   setTimeout(function() { 
     if(first == true){
-	bot.chat("Nande Nande!")
+	bot.chat("")
 	first = false;
 	}
 	else{
