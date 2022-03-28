@@ -39,7 +39,7 @@ bot.on('login',function(){
 	   task(i); 
 	} 
 	console.log("Sukses Login")
-	bot.chat("/vanish");
+	bot.chat("");
 });
   
 function task(i) { 
