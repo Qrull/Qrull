@@ -1,7 +1,7 @@
 {
-	"ip":"SK_9.aternos.me",
+	"ip":"SF4M.aternos.me",
 	"port": "22269",
-	"name": "SK9",
+	"name": "SF",
 	"auto-night-skip":"false",
 	"login-enabled":"false",
 	"register-cmd":"/register pass123 ",
